@@ -1,0 +1,11 @@
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/bin/Debug/netcoreapp3.1/Heist
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/bin/Debug/netcoreapp3.1/Heist.deps.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/bin/Debug/netcoreapp3.1/Heist.runtimeconfig.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/bin/Debug/netcoreapp3.1/Heist.runtimeconfig.dev.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/bin/Debug/netcoreapp3.1/Heist.dll
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/bin/Debug/netcoreapp3.1/Heist.pdb
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/obj/Debug/netcoreapp3.1/Heist.csprojAssemblyReference.cache
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/obj/Debug/netcoreapp3.1/Heist.AssemblyInfoInputs.cache
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/obj/Debug/netcoreapp3.1/Heist.AssemblyInfo.cs
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/obj/Debug/netcoreapp3.1/Heist.dll
+/Users/GarrettFreshwater/workspace/csharp/exercises/Heist/obj/Debug/netcoreapp3.1/Heist.pdb
