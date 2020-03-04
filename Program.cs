@@ -69,23 +69,23 @@ namespace Heist
 
                 Console.WriteLine ($"Combined skill level: {combinedSkillLevel}");
                 Console.WriteLine ($"Bank Difficulty Level: {totalBankDifficulty}");
-                Console.WriteLine ($"------------------------------------");
+                Console.WriteLine ($"---------------------------------");
 
                 if (combinedSkillLevel >= totalBankDifficulty)
                 {
-                    Console.WriteLine ("💰💰💰💰💰");
+                    Console.WriteLine ("💰💰💰💰");
                     successCount++;
                 }
                 else
                 {
-                    Console.WriteLine ("🚨🚨🚨🚨🚨");
+                    Console.WriteLine ("🚨🚨🚨🚨");
                     failCount++;
                 }
 
             }
             Console.WriteLine ($"🌟🌟Successful Heists: {successCount}🌟🌟");
             Console.WriteLine ($"🚓🚓Failed Heists: {failCount}🚓🚓");
-            Console.WriteLine ("-------------------------------------");
+            Console.WriteLine ("------------------------------");
         }
     }
 }
